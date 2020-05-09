@@ -7,10 +7,10 @@
     <meta charset="UTF-8"> 
 <body>
 
-	<h1>Primero que nada...</h1>
-		<p>Relájese, parce.</p>
-        	<h2>Segundo que nada...</h2>
-		<p>Relájese, parce.</p>
+	<h1> Primero que nada... </h1>
+		<p> Relájese, parce. </p>
+        	<h2> Segundo que nada... </h2>
+		<p> Relájese, parce.</p>
 
       <p> iiiiiiiiiiiiiii </p>
 <ol> 
